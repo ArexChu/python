@@ -1,0 +1,2 @@
+In Python you can read words in the file.
+In Python you can calculate the sum of the numbers.
