@@ -1,4 +1,4 @@
 */*+*.py
 */__pycache__/
-crawler/*.txt
-crawler/images/
+*/*.txt
+*/images/
