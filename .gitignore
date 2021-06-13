@@ -1,4 +1,6 @@
+ai/
 */*+*.py
 */__pycache__/
 */*.txt
 */images/
+.DS_Store
